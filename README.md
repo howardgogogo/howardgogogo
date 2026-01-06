@@ -3,11 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js advanced patterns, nodejs**
 
-- 👨‍💻 All of my projects are available at [https://howardgogogo.netlify.app/](https://howardgogogo.netlify.app/)
-
 - 💬 Ask me about **react, vue and next.js**
-
-- 📫 How to reach me **2225813275@qq.com**
 
 - 📄 Know about my experiences [https://howardgogogo.netlify.app/](https://howardgogogo.netlify.app/)
 
